@@ -1,2 +1,1 @@
-# logo
-Logo concepts
+Ideas for a Fortran F/OSS Programmer Group logo.
